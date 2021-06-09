@@ -1,4 +1,3 @@
-setwd("/Users/lixingyuan/Dropbox/Paper 1 submission/Supplemental materials")
 
 
 # unconstrained
